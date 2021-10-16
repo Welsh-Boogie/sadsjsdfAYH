@@ -11,9 +11,10 @@ Artion allows users:
 See [Guide](https://docs.fantom.foundation/tutorials/collection-and-bundle-guide-on-artion)
 
 # Compile
+```
 yarn install
 yarn build
 yarn global add serve
 serve -s build
-
+```
 # Deploy
