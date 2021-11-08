@@ -17,4 +17,7 @@ yarn build
 yarn global add serve
 serve -s build
 ```
+
+Note: requires Nodejs 12.x in order to not run into a memory issue
+
 # Deploy
